@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img" aria-label="enroladinho"><defs><filter id="il-enroladinho-crumb" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.95" numOctaves="2" seed="7" result="n"/><feColorMatrix in="n" type="matrix" values="0 0 0 0 1  0 0 0 0 0.84  0 0 0 0 0.45  0 0 0 -2.8 1.5"/></filter>
+<filter id="il-enroladinho-crumbdark" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="1.3" numOctaves="1" seed="3" result="n"/><feColorMatrix in="n" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.2  0 0 0 0 0.05  0 0 0 -3 1.7"/></filter>
+<filter id="il-enroladinho-soft"><feGaussianBlur stdDeviation="6"/></filter>
+<radialGradient id="il-enroladinho-g-coxinha" cx="38%" cy="30%" r="80%"><stop offset="0" stop-color="#f6c56b"/><stop offset=".55" stop-color="#df9437"/><stop offset="1" stop-color="#a95a17"/></radialGradient>
+<radialGradient id="il-enroladinho-g-rissole" cx="38%" cy="30%" r="80%"><stop offset="0" stop-color="#f8cd76"/><stop offset=".55" stop-color="#e39d3e"/><stop offset="1" stop-color="#ad611b"/></radialGradient>
+<radialGradient id="il-enroladinho-g-kibe" cx="38%" cy="30%" r="80%"><stop offset="0" stop-color="#c98a4b"/><stop offset=".55" stop-color="#9a5a2a"/><stop offset="1" stop-color="#5e3214"/></radialGradient>
+<radialGradient id="il-enroladinho-g-esfiha" cx="38%" cy="30%" r="80%"><stop offset="0" stop-color="#f7d38a"/><stop offset=".55" stop-color="#e2a24e"/><stop offset="1" stop-color="#b2702a"/></radialGradient>
+<radialGradient id="il-enroladinho-g-croquete" cx="38%" cy="30%" r="80%"><stop offset="0" stop-color="#f3bd60"/><stop offset=".55" stop-color="#d68a31"/><stop offset="1" stop-color="#9c5214"/></radialGradient>
+<radialGradient id="il-enroladinho-g-bolinha" cx="38%" cy="30%" r="80%"><stop offset="0" stop-color="#f7c768"/><stop offset=".55" stop-color="#e09437"/><stop offset="1" stop-color="#a65816"/></radialGradient>
+<radialGradient id="il-enroladinho-g-paodequeijo" cx="38%" cy="30%" r="80%"><stop offset="0" stop-color="#fbe3a6"/><stop offset=".55" stop-color="#f0c166"/><stop offset="1" stop-color="#c98d34"/></radialGradient>
+<radialGradient id="il-enroladinho-g-enroladinho" cx="38%" cy="30%" r="80%"><stop offset="0" stop-color="#f8d690"/><stop offset=".55" stop-color="#e8a94c"/><stop offset="1" stop-color="#b9732a"/></radialGradient>
+<radialGradient id="il-enroladinho-g-pastel" cx="38%" cy="30%" r="80%"><stop offset="0" stop-color="#fbe0a0"/><stop offset=".55" stop-color="#efbb5c"/><stop offset="1" stop-color="#c48530"/></radialGradient>
+<radialGradient id="il-enroladinho-g-empada" cx="38%" cy="30%" r="80%"><stop offset="0" stop-color="#fadb98"/><stop offset=".55" stop-color="#eab35a"/><stop offset="1" stop-color="#bf7d2c"/></radialGradient>
+<clipPath id="il-enroladinho-c-coxinha"><path d="M0 -72 C16 -46 56 -16 56 22 C56 54 30 72 0 72 C-30 72 -56 54 -56 22 C-56 -16 -16 -46 0 -72Z"/></clipPath>
+<clipPath id="il-enroladinho-c-rissole"><path d="M-70 22 C-70 -32 -38 -58 0 -58 C38 -58 70 -32 70 22 Q70 32 58 32 L-58 32 Q-70 32 -70 22Z"/></clipPath>
+<clipPath id="il-enroladinho-c-kibe"><path d="M-76 0 C-50 -42 50 -42 76 0 C50 42 -50 42 -76 0Z"/></clipPath>
+<clipPath id="il-enroladinho-c-esfiha"><path d="M0 -62 Q9 -62 15 -51 L63 33 Q70 48 53 50 L-53 50 Q-70 48 -63 33 L-15 -51 Q-9 -62 0 -62Z"/></clipPath>
+<clipPath id="il-enroladinho-c-croquete"><path d="M-46 -28 H46 A28 28 0 0 1 46 28 H-46 A28 28 0 0 1 -46 -28Z"/></clipPath>
+<clipPath id="il-enroladinho-c-bolinha"><path d="M0 -50 A50 50 0 1 1 0 50 A50 50 0 1 1 0 -50Z"/></clipPath>
+<clipPath id="il-enroladinho-c-paodequeijo"><path d="M-56 10 C-60 -30 -28 -48 0 -48 C30 -48 60 -30 56 10 C54 38 30 46 0 46 C-30 46 -54 38 -56 10Z"/></clipPath>
+<clipPath id="il-enroladinho-c-enroladinho"><path d="M-58 -24 H58 A24 24 0 0 1 58 24 H-58 A24 24 0 0 1 -58 -24Z"/></clipPath>
+<clipPath id="il-enroladinho-c-pastel"><path d="M-72 -34 Q-72 -44 -62 -44 H62 Q72 -44 72 -34 V30 Q72 40 62 40 H-62 Q-72 40 -72 30Z"/></clipPath>
+<clipPath id="il-enroladinho-c-empada"><path d="M-52 -8 C-52 -46 52 -46 52 -8 L42 44 Q40 52 32 52 H-32 Q-40 52 -42 44Z"/></clipPath></defs><g transform="translate(117.60000000000001 126.0) rotate(-12) scale(0.92)">
+<ellipse cx="6" cy="44" rx="58" ry="10" fill="#2a0a02" opacity=".22" filter="url(#il-enroladinho-soft)"/>
+<path d="M-58 -24 H58 A24 24 0 0 1 58 24 H-58 A24 24 0 0 1 -58 -24Z" fill="url(#il-enroladinho-g-enroladinho)"/>
+<g clip-path="url(#il-enroladinho-c-enroladinho)">
+<rect x="-90" y="-90" width="180" height="180" filter="url(#il-enroladinho-crumbdark)" opacity=".35"/>
+<ellipse cx="-18" cy="-22" rx="30" ry="14" fill="#fff6d8" opacity=".28" transform="rotate(-25)"/>
+</g>
+<ellipse cx="-70" cy="0" rx="9" ry="15" fill="#c9543e"/><ellipse cx="70" cy="0" rx="9" ry="15" fill="#c9543e"/>
+<path d="M-36 -24 q10 24 0 48 M-4 -24 q10 24 0 48 M28 -24 q10 24 0 48" stroke="#c98a3a" stroke-width="2.4" fill="none" opacity=".6"/>
+</g>
+<g transform="translate(310.8 120.0) rotate(14) scale(0.9)">
+<ellipse cx="6" cy="44" rx="58" ry="10" fill="#2a0a02" opacity=".22" filter="url(#il-enroladinho-soft)"/>
+<path d="M-58 -24 H58 A24 24 0 0 1 58 24 H-58 A24 24 0 0 1 -58 -24Z" fill="url(#il-enroladinho-g-enroladinho)"/>
+<g clip-path="url(#il-enroladinho-c-enroladinho)">
+<rect x="-90" y="-90" width="180" height="180" filter="url(#il-enroladinho-crumbdark)" opacity=".35"/>
+<ellipse cx="-18" cy="-22" rx="30" ry="14" fill="#fff6d8" opacity=".28" transform="rotate(-25)"/>
+</g>
+<ellipse cx="-70" cy="0" rx="9" ry="15" fill="#c9543e"/><ellipse cx="70" cy="0" rx="9" ry="15" fill="#c9543e"/>
+<path d="M-36 -24 q10 24 0 48 M-4 -24 q10 24 0 48 M28 -24 q10 24 0 48" stroke="#c98a3a" stroke-width="2.4" fill="none" opacity=".6"/>
+</g>
+<g transform="translate(92.4 240.0) rotate(-40) scale(0.8)"><path d="M0 0 L0 30" stroke="#3a7a24" stroke-width="3"/><path d="M0 0 c-9 -6 -9 -18 0 -24 c9 6 9 18 0 24z" fill="#57a336" transform="rotate(0 0 0)"/><path d="M-16 -10 c-9 -6 -9 -18 0 -24 c9 6 9 18 0 24z" fill="#3f8a2a" transform="rotate(-35 -16 -10)"/><path d="M16 -10 c-9 -6 -9 -18 0 -24 c9 6 9 18 0 24z" fill="#57a336" transform="rotate(35 16 -10)"/><path d="M-8 -26 c-9 -6 -9 -18 0 -24 c9 6 9 18 0 24z" fill="#3f8a2a" transform="rotate(-15 -8 -26)"/><path d="M10 -26 c-9 -6 -9 -18 0 -24 c9 6 9 18 0 24z" fill="#57a336" transform="rotate(15 10 -26)"/><path d="M0 -40 c-9 -6 -9 -18 0 -24 c9 6 9 18 0 24z" fill="#3f8a2a" transform="rotate(0 0 -40)"/></g>
+<g transform="translate(336.0 245.99999999999997) rotate(40) scale(0.75)"><path d="M0 0 L0 30" stroke="#3a7a24" stroke-width="3"/><path d="M0 0 c-9 -6 -9 -18 0 -24 c9 6 9 18 0 24z" fill="#57a336" transform="rotate(0 0 0)"/><path d="M-16 -10 c-9 -6 -9 -18 0 -24 c9 6 9 18 0 24z" fill="#3f8a2a" transform="rotate(-35 -16 -10)"/><path d="M16 -10 c-9 -6 -9 -18 0 -24 c9 6 9 18 0 24z" fill="#57a336" transform="rotate(35 16 -10)"/><path d="M-8 -26 c-9 -6 -9 -18 0 -24 c9 6 9 18 0 24z" fill="#3f8a2a" transform="rotate(-15 -8 -26)"/><path d="M10 -26 c-9 -6 -9 -18 0 -24 c9 6 9 18 0 24z" fill="#57a336" transform="rotate(15 10 -26)"/><path d="M0 -40 c-9 -6 -9 -18 0 -24 c9 6 9 18 0 24z" fill="#3f8a2a" transform="rotate(0 0 -40)"/></g>
+<g transform="translate(210.0 180.0) rotate(0) scale(1.1)">
+<ellipse cx="6" cy="44" rx="58" ry="10" fill="#2a0a02" opacity=".22" filter="url(#il-enroladinho-soft)"/>
+<path d="M-58 -24 H58 A24 24 0 0 1 58 24 H-58 A24 24 0 0 1 -58 -24Z" fill="url(#il-enroladinho-g-enroladinho)"/>
+<g clip-path="url(#il-enroladinho-c-enroladinho)">
+<rect x="-90" y="-90" width="180" height="180" filter="url(#il-enroladinho-crumbdark)" opacity=".35"/>
+<ellipse cx="-18" cy="-22" rx="30" ry="14" fill="#fff6d8" opacity=".28" transform="rotate(-25)"/>
+</g>
+<ellipse cx="-70" cy="0" rx="9" ry="15" fill="#c9543e"/><ellipse cx="70" cy="0" rx="9" ry="15" fill="#c9543e"/>
+<path d="M-36 -24 q10 24 0 48 M-4 -24 q10 24 0 48 M28 -24 q10 24 0 48" stroke="#c98a3a" stroke-width="2.4" fill="none" opacity=".6"/>
+<g transform="scale(.74) translate(0 4)">
+<path d="M-58 -24 H58 A24 24 0 0 1 58 24 H-58 A24 24 0 0 1 -58 -24Z" fill="#b9732a" opacity=".9"/>
+<path d="M-58 -24 H58 A24 24 0 0 1 58 24 H-58 A24 24 0 0 1 -58 -24Z" fill="#fdf1dc" transform="scale(.9)"/>
+<path d="M-58 -24 H58 A24 24 0 0 1 58 24 H-58 A24 24 0 0 1 -58 -24Z" fill="#d9624c" transform="scale(.72)"/>
+<g clip-path="url(#il-enroladinho-c-enroladinho)" transform="scale(.72)">
+<circle cx="0" cy="0" r="17" fill="#d9624c"/><circle cx="0" cy="0" r="17" fill="none" stroke="#a8402e" stroke-width="3"/>
+</g></g>
+</g></svg>
